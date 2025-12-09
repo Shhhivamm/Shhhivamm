@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 <h3 align="center">A passionate Python and frontend Developer.</h3>
 
-- 🔭 I’m currently working on **Wagestation**
-
 - 🌱 I’m currently learning **MernStack**
 
 - 💬 Ask me about **Python. Generative AI**
