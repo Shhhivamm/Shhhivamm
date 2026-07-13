@@ -554,3 +554,91 @@ current_focus:
 ### **"Code with purpose. Engineer with precision. Learn without limits."**
 
 </div>
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:Shivamsharma5830@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shivam-sharma-71868626b/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Shhhivamm">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+# 📬 Let's Collaborate
+
+I'm always interested in collaborating on projects involving:
+
+- Artificial Intelligence
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI
+- Backend Development
+- MERN Stack Applications
+- Open Source
+- Developer Tools
+- System Design
+- Cloud Technologies
+
+If you're working on something exciting, feel free to connect. I'm always happy to learn, contribute, and build impactful software.
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+> **"The best software isn't just written—it is engineered with purpose, refined through iteration, and built to solve real problems."**
+
+</div>
+
+---
+
+# 📈 Profile Summary
+
+<div align="center">
+
+| Area | Focus |
+|------|-------|
+| 🎓 Education | B.Tech Computer Science & Engineering |
+| 🤖 Specialization | AI Engineering & Full Stack Development |
+| 💻 Languages | Python • JavaScript • C++ • C |
+| 🌐 Technologies | MERN • FastAPI • Docker • MongoDB |
+| 🔬 Interests | LLMs • RAG • Backend Systems • Cloud |
+| 🚀 Goal | Software Engineer • AI Engineer |
+
+</div>
+
+---
+
+# ⭐ Support My Work
+
+<div align="center">
+
+If you find my projects useful, consider giving them a ⭐.
+
+It motivates me to continue building open-source software and AI-powered applications.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,30:6D28D9,60:7C3AED,100:9333EA&height=120&section=footer"/>
+
+</div>
