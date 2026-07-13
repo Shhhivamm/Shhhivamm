@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,30:4f46e5,70:7c3aed,100:a855f7&section=header&text=Shivam%20Sharma&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20•%20AI%20Developer%20•%20Backend%20Enthusiast&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,30:4f46e5,70:7c3aed,100:a855f7&section=header&text=Shivam%20Sharma&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20•%20AI%20Developer%20•%20Backend%20Enthusiast&descAlignY=58"/><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&color=A855F7&center=true&vCenter=true&width=850&lines=Building+AI-powered+Applications;FastAPI+%7C+MERN+%7C+RAG;Computer+Science+Student;Always+Building+Something+New"/>
 
