@@ -158,3 +158,242 @@ I enjoy solving real-world engineering challenges through clean code, scalable d
 ### *"Engineering scalable software today while building intelligent systems for tomorrow."*
 
 </div>
+# 🚀 Featured Projects
+
+<details open>
+<summary><b>🎓 StudyReady — AI Powered Learning Assistant</b></summary>
+
+<br>
+
+An AI-powered educational platform that transforms any learning website into an interactive study assistant. The system leverages **Retrieval-Augmented Generation (RAG)** to retrieve relevant educational content and provide context-aware answers through a conversational interface.
+
+| Category | Details |
+|----------|---------|
+| **Role** | AI & Backend Developer |
+| **Tech Stack** | Python, FastAPI, RAG, HTML, CSS, JavaScript |
+| **Architecture** | FastAPI + RAG Pipeline + LLM Integration |
+| **Performance** | Context-aware retrieval for accurate educational responses |
+| **Security** | Backend validation, API routing, modular architecture |
+| **Impact** | Makes online educational resources searchable through AI conversations |
+| **Repository** | *Coming Soon* |
+
+### Key Highlights
+
+- Built a Retrieval-Augmented Generation pipeline for educational content.
+- Developed scalable backend APIs using FastAPI.
+- Implemented document preprocessing and intelligent retrieval.
+- Designed an interactive chatbot interface for students.
+- Optimized prompt engineering for higher contextual accuracy.
+- Modular backend architecture allowing future expansion.
+
+</details>
+
+---
+
+<details>
+<summary><b>🏥 MediTrack — Smart Hospital Management System (SIH 2024)</b></summary>
+
+<br>
+
+A hospital management platform developed during **Smart India Hackathon 2024** aimed at improving patient management, hospital operations, and location-aware healthcare services.
+
+| Category | Details |
+|----------|---------|
+| **Role** | Frontend Developer |
+| **Team Size** | 6 Members |
+| **Tech Stack** | React.js, Node.js, MongoDB, CSS, Google Maps API |
+| **Scale** | Multi-user hospital management platform |
+| **Performance** | Real-time patient tracking and automated queuing |
+| **Security** | REST API communication with database integration |
+| **Impact** | Improved hospital workflow and patient accessibility |
+| **Repository** | *Private* |
+
+### Key Highlights
+
+- Developed responsive React.js frontend.
+- Integrated Google Maps API for healthcare location services.
+- Connected frontend with REST APIs.
+- Worked alongside backend developers for seamless data flow.
+- Implemented responsive UI for healthcare professionals.
+- Participated in the **Smart India Hackathon Final Round**.
+
+</details>
+
+---
+
+<details>
+<summary><b>🤖 Chat with Website AI — RAG Based Assistant</b></summary>
+
+<br>
+
+An intelligent AI chatbot capable of understanding website content through Retrieval-Augmented Generation and answering user queries with contextual awareness.
+
+| Category | Details |
+|----------|---------|
+| **Role** | AI Developer |
+| **Tech Stack** | Python, Streamlit, RAG, API Integration |
+| **Architecture** | LLM + Semantic Retrieval |
+| **Performance** | Real-time AI responses using retrieved website context |
+| **Security** | API-based backend with modular processing |
+| **Impact** | Simplifies website navigation using conversational AI |
+| **Repository** | *Coming Soon* |
+
+### Key Highlights
+
+- Built a semantic retrieval pipeline.
+- Implemented prompt engineering techniques.
+- Integrated external AI APIs.
+- Developed interactive Streamlit interface.
+- Improved contextual response quality using RAG.
+
+</details>
+
+---
+
+<details>
+<summary><b>💼 Future Project — Enterprise ERP System</b></summary>
+
+<br>
+
+A modular ERP platform currently under design that aims to provide customizable solutions for organizations, including payroll management, HR, inventory, attendance, finance, and analytics.
+
+| Category | Details |
+|----------|---------|
+| **Status** | Planning & Architecture |
+| **Target Users** | Small & Medium Enterprises |
+| **Tech Stack** | MERN Stack, Docker, REST APIs |
+| **Architecture** | Modular Microservice-Oriented Design |
+| **Scalability** | Multi-organization support |
+| **Impact** | Customizable enterprise management platform |
+| **Repository** | Coming Soon |
+
+### Planned Features
+
+- Employee Management
+- Payroll Automation
+- Inventory Management
+- Leave & Attendance
+- Role-Based Authentication
+- Dashboard Analytics
+- AI-powered Business Insights
+
+</details>
+
+---
+
+# 💼 Experience
+
+## **AI & Backend Developer**
+### StudyReady (Major Project)
+
+**Duration:** Ongoing
+
+Working on an AI-powered educational platform that combines **Large Language Models**, **Retrieval-Augmented Generation (RAG)**, and scalable backend engineering to create an intelligent learning assistant.
+
+### Scope of Work
+
+- Designing scalable backend APIs using FastAPI.
+- Building RAG pipelines for educational document retrieval.
+- Integrating AI models into production workflows.
+- Developing document processing systems.
+- Optimizing prompt engineering techniques.
+- Creating modular backend architecture.
+
+**Skills**
+
+`Python` `FastAPI` `RAG` `LLMs` `REST APIs` `Backend Development`
+
+---
+
+## **Frontend Developer**
+### MediTrack — Smart India Hackathon 2024
+
+**Duration:** 1 Month
+
+Collaborated with a six-member development team to build a smart hospital management platform for the **Smart India Hackathon 2024**.
+
+### Scope of Work
+
+- Developed responsive React.js interfaces.
+- Integrated REST APIs.
+- Implemented Google Maps services.
+- Connected frontend with MongoDB backend.
+- Participated in collaborative agile development.
+
+**Skills**
+
+`React.js` `Node.js` `MongoDB` `REST APIs` `Google Maps API`
+
+---
+
+## **AI Developer**
+### Chat with Website AI
+
+**Duration:** 1 Month
+
+Designed and developed an intelligent chatbot capable of answering questions from website content using Retrieval-Augmented Generation.
+
+### Scope of Work
+
+- Implemented semantic search pipelines.
+- Connected external AI APIs.
+- Developed Streamlit frontend.
+- Improved retrieval quality using prompt engineering.
+
+**Skills**
+
+`Python` `RAG` `Streamlit` `Prompt Engineering`
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|-------------|---------|
+| 🥇 Smart India Hackathon 2024 | Selected for the **Final Round** among national-level participants |
+| 🥉 Code Debugging Competition | Secured **3rd Position** for debugging and problem-solving |
+| 🎓 Academic Excellence | B.Tech CGPA **8.29/10** |
+| 📚 CBSE Class XII | Scored **94%** |
+| 📖 CBSE Class X | Scored **92%** |
+
+</div>
+
+---
+
+# 📜 Certifications
+
+## ☁️ Amazon Web Services (AWS)
+
+![](https://img.shields.io/badge/AWS-Cloud%20Operations-232F3E?style=for-the-badge&logo=amazonaws)
+
+![](https://img.shields.io/badge/AWS-Cloud%20Security-232F3E?style=for-the-badge&logo=amazonaws)
+
+![](https://img.shields.io/badge/AWS-Data%20Engineering-232F3E?style=for-the-badge&logo=amazonaws)
+
+---
+
+## 🎓 NPTEL
+
+![](https://img.shields.io/badge/NPTEL-Python%20for%20Data%20Science-00599C?style=for-the-badge)
+
+---
+
+## 💻 Infosys Springboard
+
+![](https://img.shields.io/badge/Infosys-Front--End%20Web%20Developer-007CC3?style=for-the-badge&logo=infosys)
+
+---
+
+## 🐍 CodSoft
+
+![](https://img.shields.io/badge/CodSoft-Python%20Programming%20Internship-6D28D9?style=for-the-badge)
+
+---
+
+<div align="center">
+
+### **"Building software that solves real-world problems through engineering excellence and AI innovation."**
+
+</div>
