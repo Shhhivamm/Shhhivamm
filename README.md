@@ -397,3 +397,160 @@ Designed and developed an intelligent chatbot capable of answering questions fro
 ### **"Building software that solves real-world problems through engineering excellence and AI innovation."**
 
 </div>
+---
+
+# 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Programming-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Coding-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+> **Replace the links above with your actual profile URLs.**
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shhhivamm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shhhivamm&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Shhhivamm&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 GitHub Metrics
+
+<div align="center">
+
+| Statistics | Value |
+|------------|-------|
+| 💻 Primary Focus | AI Engineering & Backend Development |
+| 🌱 Currently Learning | Agentic AI, System Design, Cloud Computing |
+| 🧠 Strongest Languages | Python, JavaScript, C++ |
+| 🚀 Preferred Stack | MERN + FastAPI + Docker |
+| 🎯 Career Goal | Software Engineer / AI Engineer |
+| 📚 Interests | LLMs, Distributed Systems, Backend Engineering |
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shhhivamm&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=4"/>
+
+</div>
+
+---
+
+# 📉 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shhhivamm&theme=tokyo-night&hide_border=true&radius=12"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Shhhivamm/Shhhivamm/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+
+</div>
+
+> **⚠️ Note:** The snake animation will **not appear immediately**. You'll create it later using a GitHub Action after publishing your profile repository.
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+current_focus:
+
+  learning:
+    - Agentic AI
+    - Retrieval-Augmented Generation (RAG)
+    - System Design
+    - Distributed Systems
+    - Cloud Computing (AWS)
+    - Advanced Data Structures & Algorithms
+
+  building:
+    - StudyReady AI
+    - Enterprise ERP System
+    - AI-powered Backend APIs
+    - Intelligent Document Retrieval Systems
+
+  exploring:
+    - MCP Servers
+    - AI Agents
+    - Docker
+    - Kubernetes
+    - Vector Databases
+    - LangGraph
+    - LangChain
+
+  open_to:
+    - Software Engineering Internships
+    - AI Engineering Roles
+    - Backend Development
+    - Open Source Collaboration
+    - Research Projects
+```
+
+---
+
+# 📚 Development Philosophy
+
+<div align="center">
+
+| Principle | Description |
+|-----------|-------------|
+| 🧩 Clean Code | Write readable, maintainable, and scalable software. |
+| 🚀 Performance | Build efficient applications with optimized architecture. |
+| 🤖 AI First | Leverage AI where it adds meaningful value. |
+| 📖 Continuous Learning | Learn, build, improve, repeat. |
+| 🤝 Collaboration | Great software is built by great teams. |
+| 🔍 Problem Solving | Focus on solving real-world engineering challenges. |
+
+</div>
+
+---
+
+<div align="center">
+
+### **"Code with purpose. Engineer with precision. Learn without limits."**
+
+</div>
