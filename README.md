@@ -134,3 +134,28 @@ Currently, I'm exploring:
 <img width="100%" src="https://ghchart.rshah.org/8B5CF6/Shhhivamm"/>
 
 </div>
+# GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Shhhivamm&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shhhivamm&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shhhivamm&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shhhivamm&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# Pac-Man Contribution Game
+
+<p align="center">
+<img src="./dist/pacman.svg" alt="Pacman contribution graph"/>
+</p>
