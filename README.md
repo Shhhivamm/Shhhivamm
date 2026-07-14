@@ -1,17 +1,136 @@
-<h1 align="center">Hi 👋, I'm Shivam</h1>
-<h3 align="center">A passionate Python and frontend Developer.</h3>
+<!-- =============================== -->
+<!--        ANIMATED HEADER          -->
+<!-- =============================== -->
 
-- 🌱 I’m currently learning **MernStack**
+<div align="center">
 
-- 💬 Ask me about **Python. Generative AI. RAG**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,50:8B5CF6,100:4F46E5&text=Shivam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-- 📫 How to reach me **shivamsharma5830@gmail.com**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Software+Developer;MERN+Stack+Developer;AI+%7C+RAG+%7C+Agentic+AI+Enthusiast;Always+Learning+Something+New)](https://git.io/typing-svg)
 
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+![](https://img.shields.io/badge/B.Tech-CSE-6C63FF?style=for-the-badge)
+![](https://img.shields.io/badge/CGPA-8.29-blueviolet?style=for-the-badge)
+![](https://img.shields.io/badge/India-Punjab-success?style=for-the-badge)
+
+<br>
+
+<a href="mailto:shivamsharma5830@gmail.com">
+<img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/shivam-sharma-71868626b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Shhhivamm">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=Shhhivamm&style=for-the-badge&color=blueviolet)
+
+</div>
+
+---
+
+# About Me
+
+I'm a **Computer Science & Engineering student** passionate about building scalable software and AI-powered applications.
+
+I enjoy working across the full development stack—from designing intuitive user interfaces to building efficient backend systems and integrating intelligent AI workflows.
+
+Currently, I'm exploring:
+
+- Full Stack Development (MERN)
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI
+- Backend System Design
+- Data Structures & Algorithms
+
+---
+
+# Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Frontend
 
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+**Worked With**
+
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI
+- Prompt Engineering
+- API Integrations
+
+---
+
+# Languages & Tools I Have Placed My Hands On
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,sqlite,git,github,docker,linux,vscode,postman,bash,figma,fastapi&perline=8"/>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shhhivamm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shhhivamm&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shhhivamm&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shhhivamm&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Daily Contribution Graph
+
+<img width="100%" src="https://ghchart.rshah.org/8B5CF6/Shhhivamm"/>
+
+</div>
