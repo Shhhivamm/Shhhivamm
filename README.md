@@ -5,15 +5,14 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,50:8B5CF6,100:4F46E5&text=Shivam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,50:8B5CF6,100:4F46E5&text=Shhhivamm&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Software+Developer;MERN+Stack+Developer;AI+%7C+RAG+%7C+Agentic+AI+Enthusiast;Always+Learning+Something+New)](https://git.io/typing-svg)
 
 <br>
 
 ![](https://img.shields.io/badge/B.Tech-CSE-6C63FF?style=for-the-badge)
-![](https://img.shields.io/badge/CGPA-8.29-blueviolet?style=for-the-badge)
-![](https://img.shields.io/badge/India-Punjab-success?style=for-the-badge)
+
 
 <br>
 
