@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Shivam Sharma
+<h1 align="center">Hi 👋, I'm Shivam Sharma</h1>
 
-### 💻 Computer Science & Engineering Student | Frontend Developer | Problem Solver
+<h3 align="center">Computer Science & Engineering Student | Frontend Developer | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shhhivamm&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -24,12 +24,12 @@
 
 * 🎓 Computer Science & Engineering student
 * 💻 Passionate about **Frontend Development**
-* 🐍 Working with **Python** and building practical applications
-* 🧠 Interested in **Data Structures & Algorithms**
-* 🗄️ Exploring databases such as **MySQL** and **PostgreSQL**
-* ☁️ Learning about **Cloud & DevOps**
-* 🔍 Interested in **Computer Vision** and real-world software applications
-* ⚡ I enjoy turning ideas into working projects
+* 🐍 Strong interest in **Python Development**
+* 🧠 Improving my **Data Structures & Algorithms** skills
+* 🤖 Exploring **Generative AI, LLMs, RAG & Agentic AI**
+* 🔎 Interested in building practical **AI-powered applications**
+* 🛠️ I enjoy learning new technologies by building real-world projects
+* ⚡ Always learning, experimenting, and improving
 
 ---
 
@@ -67,20 +67,38 @@
 </a>
 &nbsp;
 
-<a href="https://www.docker.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50" alt="Docker"/>
+<a href="https://www.langchain.com/">
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="50" height="50" alt="LangChain"/>
 </a>
 &nbsp;
 
-<a href="https://cloud.google.com/">
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="50" height="50" alt="Google Cloud"/>
+<a href="https://huggingface.co/">
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="50" height="50" alt="Hugging Face"/>
 </a>
 &nbsp;
 
-<a href="https://opencv.org/">
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50" height="50" alt="OpenCV"/>
+<a href="https://openai.com/">
+<img src="https://cdn.simpleicons.org/openai/000000" width="50" height="50" alt="OpenAI"/>
 </a>
 
+</p>
+
+---
+
+## 🤖 AI & Emerging Technologies
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Generative%20AI-Exploring-8A2BE2?style=for-the-badge" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/LLMs-Exploring-6C63FF?style=for-the-badge" alt="Large Language Models"/>
+<img src="https://img.shields.io/badge/RAG-Exploring-00A67E?style=for-the-badge" alt="Retrieval Augmented Generation"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-Exploring-FF6B35?style=for-the-badge" alt="Agentic AI"/>
+
+</p>
+
+<p align="center">
+  Exploring modern AI systems and building practical applications using
+  <b>LLMs</b>, <b>Generative AI</b>, <b>RAG</b>, and <b>AI Agents</b>.
 </p>
 
 ---
@@ -145,13 +163,19 @@
 ## 💡 What I'm Working On
 
 ```text
-Frontend Development     ███████████████████░░   90%
-Data Structures & Algo   █████████████████░░░░   80%
-Python Development       █████████████████░░░░   80%
-Databases                ███████████████░░░░░░   70%
-Cloud & DevOps            █████████████░░░░░░░░   60%
-Computer Vision           ████████████░░░░░░░░░   55%
+Python Development          ██████████████████░░   90%
+Frontend Development        ████████████████░░░░   80%
+Data Structures & Algo      ██████████░░░░░░░░░░   50%
 ```
+
+### 🌱 Currently Exploring
+
+* 🤖 **Generative AI**
+* 🧠 **Large Language Models (LLMs)**
+* 🔎 **Retrieval-Augmented Generation (RAG)**
+* 🤝 **Agentic AI & AI Agents**
+* 🔗 **AI-powered applications**
+* ⚙️ **LLM application architectures**
 
 ---
 
@@ -182,14 +206,6 @@ Computer Vision           ████████████░░░░░░
 
 <p align="center">
   📧 <b>shivamsharma15032@gmai.com</b>
-</p>
-
----
-
-## 📊 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shhhivamm&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
