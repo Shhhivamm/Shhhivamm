@@ -168,16 +168,6 @@ Frontend Development        ████████████████░�
 Data Structures & Algo      ██████████░░░░░░░░░░   50%
 ```
 
-### 🌱 Currently Exploring
-
-* 🤖 **Generative AI**
-* 🧠 **Large Language Models (LLMs)**
-* 🔎 **Retrieval-Augmented Generation (RAG)**
-* 🤝 **Agentic AI & AI Agents**
-* 🔗 **AI-powered applications**
-* ⚙️ **LLM application architectures**
-
----
 
 ## 🧠 Problem Solving
 
