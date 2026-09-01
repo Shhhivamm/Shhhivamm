@@ -7,15 +7,28 @@
 </p>
 
 <p align="center">
+  <a href="https://shivam-sharma55.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-Visit%20Website-0e75b6?style=for-the-badge" alt="Portfolio"/>
+  </a>
   <a href="https://github.com/shhhivamm">
     <img src="https://img.shields.io/github/followers/shhhivamm?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/shhhivamm?tab=repositories">
-    <img src="https://img.shields.io/github/stars/shhhivamm?label=Stars&style=for-the-badge" alt="GitHub Stars"/>
   </a>
   <a href="https://leetcode.com/shhhivamm/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
   </a>
+</p>
+---
+
+## 🌐 My Portfolio
+
+<p align="center">
+  <a href="https://shivam-sharma55.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0e75b6?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Explore my projects, skills, experience, and journey as a developer.</i>
 </p>
 
 ---
