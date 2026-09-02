@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
   </a>
 </p>
----
+
 
 ## 🌐 My Portfolio
 
@@ -31,7 +31,7 @@
   <i>Explore my projects, skills, experience, and journey as a developer.</i>
 </p>
 
----
+
 
 ## 🚀 About Me
 
