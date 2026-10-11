@@ -131,45 +131,6 @@
   <img src="https://streak-stats.demolab.com?user=shhhivamm&theme=tokyonight&hide_border=false" alt="GitHub Contribution Streak"/>
 </p>
 
----
-
-## 📈 Contribution Activity Graph
-
-<p align="center">
-  <a href="https://github.com/shhhivamm">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shhhivamm&theme=tokyo-night&hide_border=false&area=true" alt="GitHub Activity Graph"/>
-  </a>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shhhivamm&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/shhhivamm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shhhivamm&repo=REPOSITORY_1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/shhhivamm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shhhivamm&repo=REPOSITORY_2&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/shhhivamm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shhhivamm&repo=REPOSITORY_3&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/shhhivamm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shhhivamm&repo=REPOSITORY_4&theme=tokyonight" />
-  </a>
-</p>
 
 ---
 
